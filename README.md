@@ -8,6 +8,11 @@
 
 Ссылка на тетрадку: [https://colab.research.google.com/drive/1OT6iWlQWoBWUgF2p0lcDzlcx1gItRXm4?usp=sharing](https://colab.research.google.com/drive/1bbD2VRn9TTNNYic1PS8JsaNrwKo_iZ0c?usp=sharing)
 
+## описание клеточной линии
+![image](https://github.com/user-attachments/assets/43f1a5e6-3b46-41d4-80c3-e327cf7868de)
+
+Подозреваю что так как линия SK-N-SH связана с нейробластомой образец был взят у ребенка (нейробластома наиболее распространенная среди детей 2-3 года) и в следствии этого поодробная информация не предоставляется
+
 ## Анализ FastQC
 подробнее можно посмтреть отчеты в репозитории
 ### ENCFF436WIU
